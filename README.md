@@ -7,7 +7,7 @@
  
  <p align="justify"> :pushpin: Tecnologias: HTML, CSS e JS. </p>
  
-<p align="justify"> Desafio um commit por dia: Desenvolvendo seu CV na web.</p>
+<p align="justify"> Desafio: Um commit por dia, desenvolvendo seu CV na web.</p>
 <p align="justify"> O resultado vai ser uma página pessoal criada no GitHub. Uma excelente oportunidade para você fazer um currículo que já mostra um pouco de suas habilidades como desenvolvedor. É interessante, portanto, personalizar sua página e explorar ao máximo as ferramentas que você souber usar.</p>
 
 ----
