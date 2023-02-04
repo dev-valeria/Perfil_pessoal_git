@@ -36,8 +36,6 @@
   # Para personalizar sua página pessoal:
   ❯ https://www.youtube.com/watch?v=ZSBB-34xXsY
   
-  # Página pessoal finalizada:
-  ❯ https://val-bit.github.io/#
 ```
 
 
